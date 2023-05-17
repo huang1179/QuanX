@@ -1,0 +1,12 @@
+# > @hututu0 edited
+# > 遇到T-Mobile相关连接问题请将本规则走代理
+# > 注：1.代理线路需支持UDP 2.最好为美国线路IPLC
+
+# DOMAIN-SUFFIX,t-mobile.com
+
+# Wifi Calling
+csl.prod.ondemandconnectivity.com
+hhk.prod.ondemandconnectivity.com
+epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
+ss.epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
+ss.epdg.epc.geo.mnc000.mcc454.pub.3gppnetwork.org
