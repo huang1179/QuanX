@@ -3,6 +3,12 @@
 # > 注：1.代理线路需支持UDP 2.最好为美国线路IPLC
 
 # DOMAIN-SUFFIX,t-mobile.com
+IP-CIDR,csl.prod.ondemandconnectivity.com
+IP-CIDR,hhk.prod.ondemandconnectivity.com
+IP-CIDR,epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
+IP-CIDR,ss.epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
+IP-CIDR,ss.epdg.epc.geo.mnc000.mcc454.pub.3gppnetwork.org
+
 
 # Wifi Calling
 DOMAIN,csl.prod.ondemandconnectivity.com
