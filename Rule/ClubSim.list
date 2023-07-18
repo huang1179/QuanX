@@ -7,12 +7,6 @@ IP-CIDR,35.195.19.131/32
 IP-CIDR,34.107.65.70/32
 IP-CIDR,120.88.224.1/32
 
-IP-CIDR,csl.prod.ondemandconnectivity.com
-IP-CIDR,hhk.prod.ondemandconnectivity.com
-IP-CIDR,epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
-IP-CIDR,ss.epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
-IP-CIDR,ss.epdg.epc.geo.mnc000.mcc454.pub.3gppnetwork.org
-
 
 # Wifi Calling
 DOMAIN,csl.prod.ondemandconnectivity.com
