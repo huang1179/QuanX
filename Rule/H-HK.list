@@ -1,5 +1,18 @@
 # 自需求  优先选香港线路
 
+IP-CIDR,35.195.19.131/32
+IP-CIDR,34.107.65.70/32
+IP-CIDR,120.88.224.1/32
+
+
+# Wifi Calling
+HOST,csl.prod.ondemandconnectivity.com
+HOST,hhk.prod.ondemandconnectivity.com
+HOST,epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
+HOST,ss.epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
+HOST,ss.epdg.epc.geo.mnc000.mcc454.pub.3gppnetwork.org
+
+
 HOST-SUFFIX,three.com.hk
 HOST-KEYWORD,ocbc
 HOST-KEYWORD,hsbc
