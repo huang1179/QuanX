@@ -1,0 +1,17 @@
+# 自需求  优先选香港线路
+
+HOST-SUFFIX,three.com.hk
+HOST-KEYWORD,ocbc
+HOST-KEYWORD,hsbc
+HOST-KEYWORD,three
+HOST-KEYWORD,schwab
+HOST-KEYWORD,clubsim
+HOST-KEYWORD,dukascopy
+HOST-KEYWORD,tngdigital
+HOST-KEYWORD,yoodo
+HOST-KEYWORD,maybanksandbox
+HOST-KEYWORD,maybank2u
+HOST, gspe1-ssl.ls.apple.com
+HOST-SUFFIX, hkcsl.com
+HOST-SUFFIX, theclub.com.hk
+HOST-SUFFIX, clubsim.com.hk
