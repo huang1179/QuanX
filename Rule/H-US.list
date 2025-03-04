@@ -1,0 +1,21 @@
+#自需求美国IP
+
+#T-Mobile
+
+IP-CIDR,66.94.0.0/19,no-resolve
+IP-CIDR,206.29.177.36/32,no-resolve
+IP-CIDR,208.54.0.0/16,no-resolve
+
+HOST-SUFFIX,t-mobile.com
+HOST,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
+HOST,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org //通过UDP 4500端口实现VoWifi
+HOST,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+HOST,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
+
+
+#其他
+HOST-KEYWORD,poshmark
+HOST-KEYWORD,mercari
+HOST-KEYWORD,walmart
+HOST-KEYWORD,temu
+HOST-KEYWORD,aliexpress
