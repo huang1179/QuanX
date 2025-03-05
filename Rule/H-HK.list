@@ -12,7 +12,7 @@ HOST,epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
 HOST,ss.epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
 HOST,ss.epdg.epc.geo.mnc000.mcc454.pub.3gppnetwork.org
 
-
+host-KEYWORD, cloudflare
 HOST-SUFFIX,three.com.hk
 HOST-KEYWORD,ocbc
 HOST-KEYWORD,hsbc
