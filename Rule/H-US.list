@@ -19,3 +19,6 @@ HOST-KEYWORD,mercari
 HOST-KEYWORD,walmart
 HOST-KEYWORD,temu
 HOST-KEYWORD,aliexpress
+host, mobile.launchdarkly.com
+host-keyword, ultra
+host-keyword, ultramobile
