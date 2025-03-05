@@ -16,7 +16,6 @@ HOST,ss.epdg.epc.geo.mnc000.mcc454.pub.3gppnetwork.org
 HOST-SUFFIX,three.com.hk
 HOST-KEYWORD,ocbc
 HOST-KEYWORD,hsbc
-HOST-KEYWORD,three
 HOST-KEYWORD,schwab
 HOST-KEYWORD,clubsim
 HOST-KEYWORD,dukascopy
@@ -28,3 +27,8 @@ HOST, gspe1-ssl.ls.apple.com
 HOST-SUFFIX, hkcsl.com
 HOST-SUFFIX, theclub.com.hk
 HOST-SUFFIX, clubsim.com.hk
+host-keyword, line
+host, www.wkbhjlq.tw
+host-suffix, three.com.hk
+#host, gspe1-ssl.ls.apple.com
+host-suffix, wirexapp.com
