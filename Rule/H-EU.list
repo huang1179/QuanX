@@ -6,21 +6,21 @@ HOST-KEYWORD,blackcatcard
 HOST-KEYWORD,mql5
 HOST-KEYWORD,69shuba
 
-host-keyword, blackcatcard
-host, ocsp.pki.goog
-host, app-measurement.com
-host, graph.facebook.com
-host, graph.facebook.com
-host, config-msdk.freshchat.com
-host, msdk.freshchat.com
-host-suffix, tapapps.biz
-host-keyword, vodafone
-host-keyword, zen
-host, zen-mobile-app.firebaseio.com
-host, track-sdk-eu.customer.io
-host, region1.app-measurement.com
-host, api-eu.mixpanel.com
-host-keyword, mixpanel
-host-keyword, monese
-host-suffix, app-measurement.com
-host-suffix, hyperjar.com
+HOST-KEYWORD, blackcatcard
+HOST, ocsp.pki.goog
+HOST, app-measurement.com
+HOST, graph.facebook.com
+HOST, graph.facebook.com
+HOST, config-msdk.freshchat.com
+HOST, msdk.freshchat.com
+HOST-suffix, tapapps.biz
+HOST-KEYWORD, vodafone
+HOST-KEYWORD, zen
+HOST, zen-mobile-app.firebaseio.com
+HOST, track-sdk-eu.customer.io
+HOST, region1.app-measurement.com
+HOST, api-eu.mixpanel.com
+HOST-KEYWORD, mixpanel
+HOST-KEYWORD, monese
+HOST-suffix, app-measurement.com
+HOST-suffix, hyperjar.com
