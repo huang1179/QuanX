@@ -12,7 +12,7 @@ HOST,epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
 HOST,ss.epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
 HOST,ss.epdg.epc.geo.mnc000.mcc454.pub.3gppnetwork.org
 
-host-KEYWORD, cloudflare
+HOST-KEYWORD, cloudflare
 HOST-SUFFIX,three.com.hk
 HOST-KEYWORD,ocbc
 HOST-KEYWORD,hsbc
@@ -27,8 +27,8 @@ HOST, gspe1-ssl.ls.apple.com
 HOST-SUFFIX, hkcsl.com
 HOST-SUFFIX, theclub.com.hk
 HOST-SUFFIX, clubsim.com.hk
-host-keyword, line
-host, www.wkbhjlq.tw
-host-suffix, three.com.hk
+HOST-KEYWORD, line
+HOST, www.wkbhjlq.tw
+HOST-SUFFIX, three.com.hk
 #host, gspe1-ssl.ls.apple.com
-host-suffix, wirexapp.com
+HOST-SUFFIX, wirexapp.com
