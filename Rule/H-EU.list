@@ -5,8 +5,10 @@ HOST-KEYWORD,vodafone
 HOST-KEYWORD,blackcatcard
 HOST-KEYWORD,mql5
 HOST-KEYWORD,69shuba
+HOST-KEYWORD,n26
+HOST-KEYWORD,tech26
 
-HOST-KEYWORD, blackcatcard
+
 HOST, ocsp.pki.goog
 HOST, app-measurement.com
 HOST, graph.facebook.com
@@ -14,8 +16,6 @@ HOST, graph.facebook.com
 HOST, config-msdk.freshchat.com
 HOST, msdk.freshchat.com
 HOST-suffix, tapapps.biz
-HOST-KEYWORD, vodafone
-HOST-KEYWORD, zen
 HOST, zen-mobile-app.firebaseio.com
 HOST, track-sdk-eu.customer.io
 HOST, region1.app-measurement.com
